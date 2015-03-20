@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Yotsuba Society
 locale:           en_US
-url:              
+url:              http://ys.bibanon.org
 
 
 # Jekyll configuration
@@ -15,6 +15,7 @@ sass:
   style: compressed
 gems:
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 kramdown:
   auto_ids: true
@@ -26,12 +27,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  name: Ndee "Jkid" Okeh (Jkid !yYT/u4PSNE) 
+  avatar: ba-logo.png
+  bio: "Co-Owner, Co-Founder, and Head Chanthropologist of the Yotsuba Society."
+  email: ysjkid@gmail.com
   disqus-shortname: 
-  twitter: #username
+  twitter: 
   facebook: #username
   google:
     plus: #username
@@ -40,10 +41,9 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: 
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  xing: #username
   instagram: #username
   lastfm: #username
   tumblr: #username
@@ -51,7 +51,7 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: #username
+  youtube: Jkid4
   soundcloud: #username
   weibo: #username
   flickr: #username
