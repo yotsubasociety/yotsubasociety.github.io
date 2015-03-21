@@ -47,7 +47,7 @@ To create a new page, go to the `pages/` folder in this repository and click the
 
 ![](https://camo.githubusercontent.com/8fdc501d6746c307ada3d168e5db7b8d1b12cd75/687474703a2f2f636c2e6c792f4c4c65302f6e65772d66696c652e6a7067)
 
-Make sure to name your file, and follow the format of `2014-09-15-page-shortlink.md`. The words in the filename will be used as the shortlink, in this case `http://yotsubasociety.org/page-shortlink/`.
+Make sure to name your file, and follow the format of `page-shortlink.md` (no date necessary for pages). The words in the filename will be used as the shortlink, in this case `http://yotsubasociety.org/page-shortlink/`.
 
 ![](https://camo.githubusercontent.com/f4b2aa2358596bdaa11543d51c055da68927707a/687474703a2f2f636c2e6c792f4b77654c2f6e65772d66696c652d656469746f722e706e67)
 
@@ -77,11 +77,13 @@ Finally, you must link to the page before anyone will be able to access it.
 
 Then, click **Edit** at the top right. Then add a link to your new page in the bulleted list, as follows:
 
-> **Note:** Make sure to create a relative link to the page. If your page's URL is `http://yotsubasociety.org/intro-to-ys/`, just link to `intro-to-ys/`.
+> **Note:** Make sure to create a relative link to the page. If your page's URL is `http://yotsubasociety.org/intro-to-ys/`, just link to `../intro-to-ys/`.
 
 ```markdown
-* [Introduction to Yotsuba Society](intro-to-ys/)
-* [The Protochannel and the First Channel](ayashii-and-amezou/)
+* [Introduction to Yotsuba Society](../intro-to-ys/)
+* [The Protochannel and the First Channel](../ayashii-and-amezou/)
 ```
+
+> **Note:** The `../` prefix is used because the generated `articles` and `briefings` pages are one directory level below the website folder.
 
 Now your page is available for the public to enjoy.
