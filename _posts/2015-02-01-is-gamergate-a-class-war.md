@@ -42,5 +42,5 @@ I wonder how people will look at this decades from now. Will it look like the "D
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/I1CP1751wJA" frameborder="0"> </iframe>
 
-https://web.archive.org/web/20150120185655/https://8ch.net/leftypol/res/71957.html
-https://np.reddit.com/r/KotakuInAction/comments/2sl4s7/is_gamergate_a_class_war/
+* [Source: 8chan /leftypol/ - Social Aspects of Gamergate](https://web.archive.org/web/20150120185655/https://8ch.net/leftypol/res/71957.html)
+* [Source: Reddit /r/KotakuInAction - Is GamerGate a Class War?](http://reddit.com/r/KotakuInAction/comments/2sl4s7/is_gamergate_a_class_war/)
