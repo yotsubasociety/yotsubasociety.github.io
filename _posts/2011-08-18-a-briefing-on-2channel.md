@@ -2,7 +2,7 @@
 layout: post
 title: A Briefing on 2channel
 permalink: /2channel_briefing/
-redirect_from: /node/29
+redirect_from: /node/29/
 created: 1313721029
 ---
 2channel is the largest anonymous forum in the world, where Japanese people can reveal their inner feelings and their true side in complete anonymity. 2channel contains 837 boards of every subject imaginable in Japan, categorized into about 41 broad subjects. Each board has its own culture, memes, resident posters, yet bound together with the common 2channel culture.  The site is very powerful that the Japanese Government, businesses, and law enforcement monitor the site for their own various reasons.

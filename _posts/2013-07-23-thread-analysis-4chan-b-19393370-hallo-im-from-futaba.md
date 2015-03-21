@@ -2,7 +2,7 @@
 layout: post
 title: Thread Analysis – 4chan/b/19393370 - “hallo, I'm from Futaba.”
 permalink: /19393370_hallo_I'm_from_Futaba/
-redirect_from: /node/79
+redirect_from: /node/79/
 created: 1374618877
 ---
 Thread in archives: http://archives.yotsubasociety.org/threads/4chan/b/b%20%20-%20Random%2019393370.htm

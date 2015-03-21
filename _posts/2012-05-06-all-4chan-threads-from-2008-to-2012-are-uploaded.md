@@ -2,7 +2,7 @@
 layout: post
 title: All 4chan threads from 2008 to 2012 are uploaded.
 permalink: /YSArchives_Update_5_6_2012/
-redirect_from: /node/60
+redirect_from: /node/60/
 created: 1336349675
 ---
 By the time you read this, all the threads I have from 4chan from 2008 to 2012 are now uploaded. This project has been in the works since the Yotsuba Society website was launched. After 18 months, I've succeeded in making the operation a success. From now on, every month we will be uploading updates to the archives of the 4chan portion of the threads. While doing so I will begin uploading threads from other major *chans in the chanverse beginning this month. 

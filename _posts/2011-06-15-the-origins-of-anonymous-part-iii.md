@@ -2,7 +2,7 @@
 layout: post
 title: The Origins of Anonymous Part III
 permalink: /originsofanon_ptiii/
-redirect_from: /node/19
+redirect_from: /node/19/
 created: 1308170797
 ---
 We know Anonymous as an average channer on the imageboards and textboards. We also know him as a unique net character manifested on the internet by the *chans. The third origin of Anonymous however stems from these two things, but not a regular organization, but more of a stand-alone complex.  An organization that does not have any true leadership, just any bunch of people united for one cause using the name for publicity. While the use of Anonymous as an organization started with Project Chanology, the origins of this go way back in 2006. 

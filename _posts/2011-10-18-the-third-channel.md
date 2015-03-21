@@ -2,7 +2,7 @@
 layout: post
 title: The Third Channel
 permalink: /TheThirdChannel/
-redirect_from: /node/38
+redirect_from: /node/38/
 created: 1318987411
 ---
 As the Founder of Yotsuba Society, it's a great pleasure that I'm finally publishing The Third Channel to the Yotsuba Society Front Page. Along with the Second Channel, this paper should have been published months ago before Otakon 2011. However, various complications prevented that from happening. And again, I have to finish what I've started. And just like The Second Paper, it's in a downloadable PDF file.

@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Origins of Anonymous: The Faces of Anonymous Part I'
 permalink: /facesofanonpti/
-redirect_from: /node/55
+redirect_from: /node/55/
 created: 1330473021
 ---
 Yotsuba Society published an article called "Origins of Anonymous" a three part series about the origins of Anonymous from a channer pespective, net-character perspective, and from a stand-alone complex perspective. There was a whole set of images to be published here during the articles publishing era, but I did not had the time to get a full series of images onto the website until now. Many of them are from my personal collection of over the years of channing. This will as the ongoing series of the final part of Origins of Anonymous called "The Faces of Anonymous". I hope you enjoy this article series.

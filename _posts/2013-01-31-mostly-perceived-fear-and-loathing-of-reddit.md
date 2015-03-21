@@ -2,7 +2,7 @@
 layout: post
 title: (Mostly Perceived) Fear and Loathing of Reddit
 permalink: /Mostly_Perceived_Fear_and_Loathing_of_Reddit/
-redirect_from: /node/64
+redirect_from: /node/64/
 created: 1359693087
 ---
 4chan and by extent, the chanverse has been loathing the link-sharing social media site Reddit since 2011. Most of the loathing comes from Reddit picking up memes that 4chan decided to end and keep spreading them out across the internet. This limitation isn’t related to memes or catch phrases, but also other 4chan boards such /v/ and /a/ as those two boards also loathe reddit for their own community or culture related reasons.

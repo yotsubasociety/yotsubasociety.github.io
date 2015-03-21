@@ -2,7 +2,7 @@
 layout: post
 title: What is Chanthropology?
 permalink: /What_is_Chanthropology/
-redirect_from: /node/16
+redirect_from: /node/16/
 created: 1307036650
 ---
 The Western Imageboard Culture is the most underdocumented and misdocumented subculture in the early 21st century. Most of the misdocumentation and underdocumentation is a result of the mainstream media and the mainstream either focusing on the controversial or accentuating the controversial. Due to this misdocumentation and underdocumentation the imageboard culture as a end result has been less taken seriously as a meaningful subculture, with the exception of people who know much about the culture and take it seriously. The MIT paper while a bit lacking on the actual knowledge of the culture did coined the term: Chanthropology.

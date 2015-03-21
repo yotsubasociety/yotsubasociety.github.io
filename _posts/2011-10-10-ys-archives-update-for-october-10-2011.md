@@ -2,7 +2,7 @@
 layout: post
 title: YS Archives Update for October 10, 2011
 permalink: /YSArchives_Update10_10_2011/
-redirect_from: /node/35
+redirect_from: /node/35/
 created: 1318295742
 ---
 It’s been a while since I uploaded a large batch of 4chan threads to the Yotsuba Society Archives. The first batch of threads was from my collection of 4chan threads I’ve saved in 2008. With a few exceptions they’ve been exclusively 4chan related. The first batch was fine to upload with me myself doing the basic html work, but it took me about three or two weeks to get the files public because I had to do them by hand one html line at a time. Uploading the files are easy, but the main issue is creating the html links.

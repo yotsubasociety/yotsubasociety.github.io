@@ -2,7 +2,7 @@
 layout: post
 title: A Special Message Regarding Our "Hibernation"
 permalink: /2012Hibernation/
-redirect_from: /node/63
+redirect_from: /node/63/
 created: 1358925225
 ---
 It’s a long time since I’ve made a new update. I’ve been through a lot of shit lately with school and family. But I still have not forgotten about the website. The IRC still there, and I get the occasional email from a fan or a oldfag who approaches what I do. Even though this site has been in hibernation since we were forced to move out of our shared server and into a new server where I have to upload everything. Sadly due to a fault due to a rush of resources the front page is not available for viewing until now. The only thing that was still constant in this crap was the archives section of Yotsuba Society.

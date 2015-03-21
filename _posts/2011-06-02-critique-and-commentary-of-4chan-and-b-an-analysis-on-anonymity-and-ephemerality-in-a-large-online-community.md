@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Critique and Commentary of  “4chan and /b/: An Analysis on Anonymity and Ephemerality in a Large Online Community.”'
 permalink: /Critique_and_Commentary/
-redirect_from: /node/15
+redirect_from: /node/15/
 created: 1307036486
 ---
 The following is a critique and commentary on the MIT and University of Southampton paper entitled “4chan and /b/: An Analysis on Anonymity and Ephemerality in a Large Online Community.” This critique and commentary is unique because this is not only coming from a member of the public who is attending a university in the United States, it's coming from an actual channer (A person who go to imageboards) who has prior channing experience of three years before the publishing of the paper. The paper that is being critiqued and commented contains two separate studies on online ephemerality and anonymity on 4chan, more particularly 4chan's /b/. The paper  itself is decent on an academic standpoint, but when it comes to the accuracy of the report on the chan culture, more specifically the culture of /b/, it's not so much. /b/ despite being a “ocean of piss” and a “wretched hive of scum and villainy” has a rich history of traditions, culture, memes, and history itself.4chan in general has the same things as well. And it’s clear that the researchers do not know much about actual chan culture. 

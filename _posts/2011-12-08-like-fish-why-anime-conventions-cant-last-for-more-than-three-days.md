@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Like Fish: Why Anime Conventions Can’t Last for More Than Three Days'
 permalink: /like_fish/
-redirect_from: /node/41
+redirect_from: /node/41/
 created: 1323358545
 ---
 With the Fall-Winter convention season upon us you may be wondering why anime conventions only last for three days? More specifically, why anime conventions only last for only three days and two nights? That time frame is more than enough for all activities an average anime convention can offer, such as anime viewings, panels, workshops, video gaming, and various other main events. So why can’t anime conventions people want to extend the entire event from three days to four days (or even more)? It’s not because of economic reasons or resources: Here’s the real reasons.

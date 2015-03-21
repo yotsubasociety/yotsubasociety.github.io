@@ -2,7 +2,7 @@
 layout: post
 title: 4chan, we want to preserve your Yotsuba Archivers!
 permalink: /yotsuba_archiver_changeover/
-redirect_from: /node/21
+redirect_from: /node/21/
 created: 1309649627
 ---
 On Saturday, July 2, 2011, green-oval.com has transferred  the /a/ archive to easymodo.com. However from a source close to Yotsuba Society, it appears that green-oval.com is planning to close down its archival site for good. If it’s true, then an entire history worth of threads from /g/, /sci/, /lit/, and /tv/ may be gone forever. In addition /co/ has also been removed from the green-oval archives as well.  

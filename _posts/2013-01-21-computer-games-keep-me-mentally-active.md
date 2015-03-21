@@ -2,7 +2,7 @@
 layout: post
 title: ! '"Computer games keep me mentally active"'
 permalink: /Computer games keep me mentally active/
-redirect_from: /node/61
+redirect_from: /node/61/
 created: 1358810266
 ---
 <b>4chan /v/ - Computer games keep me mentally active Anonymous 01/21/13(Mon)15:32 No.172521805</b>

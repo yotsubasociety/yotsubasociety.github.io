@@ -2,7 +2,7 @@
 layout: post
 title: Is Gamergate A Class War?
 permalink: /gamergate-class-war/
-redirect_from: /node/88
+redirect_from: /node/88/
 author: warsie
 created: 1422770145
 ---

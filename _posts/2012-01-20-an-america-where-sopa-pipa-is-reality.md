@@ -2,7 +2,7 @@
 layout: post
 title: An America Where SOPA/PIPA is reality
 permalink: /americawonet/
-redirect_from: /node/44
+redirect_from: /node/44/
 created: 1327086507
 ---
 Imagine an America where the internet is history. When I mean history I mean like a time capsule. No more innovation, no more evolution, just dead. No more forums, no more freedom of information, no more true interaction. All dead because corporate media despite earning record amounts of profit and revenue want to control the internet the same way they did to radio, broadcast television, and cable/satellite television. An America without a true internet: Just television and radio, one way communications.

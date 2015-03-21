@@ -2,7 +2,7 @@
 layout: post
 title: A Public Service Advisory Regarding the 4chon.net admin Savetheinternet
 permalink: /savetheinternet_public_advisory/
-redirect_from: /node/75
+redirect_from: /node/75/
 created: 1365977597
 ---
 Since Early Summer of 2011, savetheinternet and his cyberyob crew “Leetchan” has been harassing me and Yotsuba Society almost the last two years. With him and along with leetchan, he has been doing a racially and ablest motivated hate campaign against me. The types of harassments including prank calls, spambombing of chans, zero-day hacks, defamation slam sites, irc harassment and flooding, and using a fake website (shotgunhost) to steal 72 GB of content of a potential fuuka archive for /cgl/.

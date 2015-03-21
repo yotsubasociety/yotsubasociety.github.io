@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Yotsuba Society Archives - 4chan files (UPDATED: 10-14-2013 with MEGA Links)'
 permalink: /YSArchives_4chan/
-redirect_from: /node/81
+redirect_from: /node/81/
 created: 1381332289
 ---
 As per the last new article, a copy was made weeks before the uploads were done as a insurance policy just in case something like this happens. Now that same copy has transferred into a .rar file containing 25,000 or 4chan threads, some of them dating back from 2003-2004 and most of them from 2007 to August 2013. It basically has everything the 4chan section of the YS Archives have except for the moot video archive (which you can easily find it elsewhere).

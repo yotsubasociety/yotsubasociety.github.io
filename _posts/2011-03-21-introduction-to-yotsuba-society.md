@@ -2,7 +2,7 @@
 layout: post
 title: Introduction to Yotsuba Society
 permalink: /intro-to-ys/
-redirect_from: /node/3
+redirect_from: /node/3/
 created: 1300717398
 ---
 The Western Imageboard Culture is literally the biggest and most unnoticed cultural and sociological event in the early 21st century. Culturally, it is has revolutionized how the western world has communicated with each other. Sociologically it has revolutionized how people from all walks of life in the Western World communicate and express each other. It is the biggest and most unnoticed cultural and sociological event for seven years primarily because of the overwhelming focus on the sensational aspects of the western imageboard culture. This overwhelming focus on the sensational overshadows the many good that came from the culture. This is known as the “Great Tragedy” of the imageboard culture.

@@ -2,7 +2,7 @@
 layout: post
 title: A Briefing on Racism on the chanverse and imageboards
 permalink: /chanverse_racism_briefing/
-redirect_from: /node/47
+redirect_from: /node/47/
 created: 1327604303
 ---
 <b>Overview of the Topic</b>

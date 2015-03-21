@@ -2,7 +2,7 @@
 layout: page
 title: Contact Us
 permalink: /contact/
-redirect_from: /node/7
+redirect_from: /node/7/
 ---
 
 Below is the contact information for Yotsuba Society. Any inquiries will get a response within 24 hours.

@@ -2,7 +2,7 @@
 layout: post
 title: The Otaku Continuum
 permalink: /the_otaku_continuum/
-redirect_from: /node/6
+redirect_from: /node/6/
 created: 1300913480
 ---
 The otaku continuum is based four types of otaku. These four types are based on how they watch their anime or read their manga online. How these people on the internet get their content depend on their circumstances, like how fast their internet connection is, their disposable income, and where they live in the world. On these conditions, some are forced to get their media in one particular way, and have multiple ways to get their content and they choose which one is convenient and affordable to get their media.

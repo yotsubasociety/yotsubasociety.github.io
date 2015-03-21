@@ -3,7 +3,7 @@ layout: page
 title: Join The Yotsuba Society
 permalink: /join-us/
 redirect_from:
-  - /node/31
+  - /node/31/
   - /Join_us/
 ---
 

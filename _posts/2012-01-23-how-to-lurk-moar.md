@@ -2,7 +2,7 @@
 layout: post
 title: How to "lurk moar"
 permalink: /how_to_lurk_moar/
-redirect_from: /node/42
+redirect_from: /node/42/
 created: 1327344966
 ---
 “Lurk moar” is the standard phrase said to many a newfag in the chanverse who does not know ever a simplest or common chan meme or tradition. This phrase has been said many times, but what is not told of them is how to lurk more. Usually the person says that is to will reply in a kneejerkish way “just lurk more”. Since human beings expect other people to figure it out on their own since they’re lazy, we’re doing the job for them. First, the real question we should ask is: “What is the purpose of lurking more?”

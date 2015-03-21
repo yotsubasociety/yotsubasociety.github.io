@@ -2,7 +2,7 @@
 layout: post
 title: Briefing - 2011 /r9k/ and /new/ Diaspora
 permalink: /2011_Diaspora/
-redirect_from: /node/43
+redirect_from: /node/43/
 created: 1327035123
 ---
 A Diaspora is a dispersal of a large cultural group via an external force. Often times a diaspora can result in the same groups of people moving from one place to multiple places outside their original home. This type of diaspora however is instead of regular people, it involved 4channers. Similar to what occurred on /b/day but different as it involved two boards. There was short term and long term consequences to the diaspora, and these consequences are still felt in the chanverse today.

@@ -2,7 +2,7 @@
 layout: page
 title: YSChan's FAQ
 permalink: /boardsfaq/
-redirect_from: /node/9
+redirect_from: /node/9/
 ---
 
 Welcome to YSchan's FAQ page. _Unfortunately, YSChan is currently down for the moment, so this FAQ page is left for historical purposes only._

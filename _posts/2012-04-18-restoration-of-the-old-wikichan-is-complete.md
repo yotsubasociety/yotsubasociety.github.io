@@ -2,7 +2,7 @@
 layout: post
 title: Restoration of the Old Wikichan is complete.
 permalink: /wikichan_restoration_complete/
-redirect_from: /node/59
+redirect_from: /node/59/
 created: 1334798944
 ---
 Remember back in 2011 about restoring the old wikichan (http://www.yotsubasociety.org/news_update_5_23_2011)and our plans to integrate it with the Yotsuba Society Wiki? 

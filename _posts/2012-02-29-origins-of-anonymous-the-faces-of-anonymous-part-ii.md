@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Origins of Anonymous: The Faces of Anonymous Part II'
 permalink: /facesofanonptii/
-redirect_from: /node/56
+redirect_from: /node/56/
 created: 1330554440
 ---
 This is part of an ongoing series of image articles called "Faces of Anonymous".

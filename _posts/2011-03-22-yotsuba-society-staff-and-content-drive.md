@@ -2,7 +2,7 @@
 layout: post
 title: Yotsuba Society Staff and Content Drive
 permalink: /staff_recruitment_and_content_drive/
-redirect_from: /node/5
+redirect_from: /node/5/
 created: 1300832348
 ---
 Currently Yotsuba Society is doing two drives. The first one is for historians and archivers for the site, please note that these are not paid positions and are completely volunteer positions: 

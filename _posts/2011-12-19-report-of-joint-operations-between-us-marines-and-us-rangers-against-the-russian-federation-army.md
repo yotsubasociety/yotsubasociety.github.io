@@ -2,7 +2,7 @@
 layout: post
 title: Report of Joint Operations between US Marines and US Rangers against the Russian Federation Army.
 permalink: /Report_of_Joint_Operations/
-redirect_from: /node/42
+redirect_from: /node/42/
 created: 1324333070
 ---
 <u><b>Author's note: The following is a work of satire and  commentary of the game war between Battlefield 3 and  Call of Duty: Modern Warfare 3 between EA Games and Activism. This article does not mean any intent to disrespect any active, reserved, or retired solider in the United States Armed Forces or the Armed Forces of the Russian Federation.</b></u> 

@@ -2,7 +2,7 @@
 layout: post
 title: FOR IMMEDIATE RELEASE– Yotsuba Society Releases Archives of Various Imageboards
 permalink: /1-26-2012_pressrelease/
-redirect_from: /node/48
+redirect_from: /node/48/
 created: 1327630709
 ---
 1/26/2012

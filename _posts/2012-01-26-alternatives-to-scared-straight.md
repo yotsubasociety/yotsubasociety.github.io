@@ -2,7 +2,7 @@
 layout: post
 title: Alternatives to Scared Straight
 permalink: /Alternatives_to_Scared_Straight/
-redirect_from: /node/46
+redirect_from: /node/46/
 created: 1327603714
 ---
 A&E’s Beyond Scared Straight has recently finished a third season of episodes in various prisons and county jails across the United States. For those who do not know, Beyond Scared Straight is based on the award winning reality documentary Scared Straight! It featured a group of juvenile offenders going into Rahway State Prison in New Jersey with real criminals called “The Lifers”, basically scaring the kids who have peer-socialized apathy syndrome straight with the realities of prison life. Since then, various state and county governments have implemented similar programs in their jails and prisons.

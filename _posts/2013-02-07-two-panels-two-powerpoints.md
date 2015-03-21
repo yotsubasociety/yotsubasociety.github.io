@@ -2,7 +2,7 @@
 layout: post
 title: Two panels, Two Powerpoints
 permalink: /two_panels-two_powerpoints/
-redirect_from: /node/66
+redirect_from: /node/66/
 created: 1360294008
 ---
 Shortly after the creation of the Yotsuba Society Websites in 2011 I applied to do a panel for Katsucon 17. The panel was called “The Imageboard World”. It was held by me, my co-founder Xantar, Charizard, and another person called Nostalgia. I was a basic panel about imageboards, a few pictures here and then of the front pages of the *chans, and one stage about “Stages of a Channer” from one of my articles. A few people attended, and for some reason Katsucon liked my panel.

@@ -2,7 +2,7 @@
 layout: post
 title: RIP Yotsuba Society Archives March 2011 - 8/29/2013
 permalink: /RIP_Yotsuba_Society_Archives/
-redirect_from: /node/80
+redirect_from: /node/80/
 created: 1379801246
 ---
 It is with sadness that the Yotsuba Society Archives is closed and will remain closed for the long-term foreseeable future. On 8/29/2013 we were given a notice from Dreamhost that I have 48 hours to remove the entire archives of the site or they will terminate the entire account hosting the site. It was an immediate ultimatum, no opportunity to negotiate or to do anything. Sadly, while they have an unlimited policy, the have a provision against any archives for any reason. It took me days to delete the entire archives which it took me previously an entire week to upload on Late 2012.

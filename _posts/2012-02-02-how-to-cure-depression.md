@@ -2,7 +2,7 @@
 layout: post
 title: How to Cure Depression
 permalink: /dealing_with_depression/
-redirect_from: /node/49
+redirect_from: /node/49/
 created: 1328233901
 ---
 <b>Editor’s note</b>: <i>The work is a piece of satire showing how Western countries are practically lazy dealing with depression as a serious mental issue. If you have a serious case of major depression or suicidal thoughts please get real professional help. 

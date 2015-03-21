@@ -2,7 +2,7 @@
 layout: page
 title: Send your old stuff to us
 permalink: /material_submission/
-redirect_from: /node/30
+redirect_from: /node/30/
 ---
 
 Yotsuba Society is there for the study and preservation of the Western imageboard culture. How are we not a society if we don’t have old stuff to preserve for future generations? Anyway if you have any of the following from 4chan or any other imageboard or textboard like:

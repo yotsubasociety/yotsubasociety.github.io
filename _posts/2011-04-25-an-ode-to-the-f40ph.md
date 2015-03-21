@@ -2,7 +2,7 @@
 layout: post
 title: An Ode to the F40PH
 permalink: /An_Ode_to_the_F40PH/
-redirect_from: /node/13
+redirect_from: /node/13/
 created: 1303749261
 ---
 At one point in the history of 4chan, there was a tradition of dumping pictures of furry art on Fridays. There was a mix of safe for work,  but most of the images were mostly not safe for work images. /b/tards were increasingly fed up with this art, and to this day they do. So they had to do something drastic. It would involve a legend of American rail history, the F40PH. 

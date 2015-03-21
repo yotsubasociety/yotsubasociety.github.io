@@ -2,7 +2,7 @@
 layout: post
 title: Note Regarding 4chon.net admin savetheinternet
 permalink: /re-savetheinternet/
-redirect_from: /node/40
+redirect_from: /node/40/
 created: 1322588514
 ---
 Since Late Spring of 2011 the Society and me personally has been harassed by a person that I knew since the Chris Beer spam incident. That person is savetheinternet, or by his full name “Michael Foster”, an Australian who owns and administers 4chon.net and the Datenode irc network. The sad truth is that he actually supported the Society’s goals and objectives. However at the same time he revealed his true colors in the past six months.

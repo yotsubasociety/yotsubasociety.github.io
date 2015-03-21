@@ -2,7 +2,7 @@
 layout: post
 title: A Briefing on Futaba Channel
 permalink: /Futaba_Channel_briefing/
-redirect_from: /node/28
+redirect_from: /node/28/
 created: 1313720413
 ---
 Futaba Channel was created during the August crisis of 2001, when 2channel was in danger of being closed down due to overwhelming server load due to the ever expanding use from the media coverage. 2channel made two responses to the crisis, this and another one preserving the textboard coming from UNIX. In order to differate itself from 2ch.net, the admin created a url to 2chan.net. While started as a textboard refuge for anime, manga, video game, and other varied otaku it transformed into an imageboard due to a need to share images without using off-site hosts.

@@ -2,7 +2,7 @@
 layout: post
 title: 1chan – “Some Chinese train pics”
 permalink: /Some_Chinese_Rail_Pics/
-redirect_from: /node/65
+redirect_from: /node/65/
 created: 1360021502
 ---
 <b>1chan is an imageboard solely for one topic: Railroads. Railroads of all types:  Locomotives, subways, trams, commuter rail, Steamers, foamers. It has a small dedicated community of tripfags, some of them are in the railway industry itself. The site is managed by “thatdog”, who is a Something Awful Forums Goon and is managed by moderators such as Kartma and t3h_fuhr3r (which is not related to the late German genocidal dictator Adolf Hitler).</b>

@@ -2,7 +2,7 @@
 layout: post
 title: Classic 4chan memes now available to download
 permalink: /Classic_4chan_memes/
-redirect_from: /node/25
+redirect_from: /node/25/
 created: 1310605605
 ---
 Link1: [Original Link Removed, one of the images contains a trojan program, please download the mirror version instead]

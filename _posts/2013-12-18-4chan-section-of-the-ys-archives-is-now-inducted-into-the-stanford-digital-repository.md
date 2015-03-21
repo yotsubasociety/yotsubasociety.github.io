@@ -2,7 +2,7 @@
 layout: post
 title: 4chan section of the YS Archives is now inducted into the Stanford Digital Repository
 permalink: /4chan_YSArchives_inducted_to_Stanford_Digital_Repository/
-redirect_from: /node/82
+redirect_from: /node/82/
 created: 1387398812
 ---
 Yesterday on 12/17/2013 a very important piece of 4chan history has been inducted on a website. But not just any 4chan history, but six years of 4chan history from 2007 to 2013. The 4chan section of the Yotsuba Society Archives is now available at the Stanford Digital Repository, at Standard University in California. 

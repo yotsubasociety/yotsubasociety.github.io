@@ -2,7 +2,7 @@
 layout: post
 title: Can You Make a Emblem for Yotsuba Society?
 permalink: /Can_you_make_a_emblem/
-redirect_from: /node/50
+redirect_from: /node/50/
 created: 1328285846
 ---
 Yotsuba Society is interested in having a emblem. I already have an idea for one which is the following:

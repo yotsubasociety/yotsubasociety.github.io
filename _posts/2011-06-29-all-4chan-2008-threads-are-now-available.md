@@ -2,7 +2,7 @@
 layout: post
 title: All 4chan 2008 Threads Are Now Available
 permalink: /20084chanthreads/
-redirect_from: /node/20
+redirect_from: /node/20/
 created: 1309391390
 ---
 Yesterday marks a milestone for the Yotsuba Society Archives. That milestone is that all the 4chan threads I have uploaded on the archives are now viewable. You may notice that the titling of the threads are not completed yet, but that’s fine. The immediate goal of the archives is to get them listed and viewable. That way I can go through the backlog of threads that were sent to me by the various Historians and Archivers, Yotsuba Society currently has.

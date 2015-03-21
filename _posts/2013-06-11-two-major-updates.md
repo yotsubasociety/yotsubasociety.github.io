@@ -2,7 +2,7 @@
 layout: post
 title: Two major updates
 permalink: /two_major_updates/
-redirect_from: /node/77
+redirect_from: /node/77/
 created: 1370952880
 ---
 On 5/15/2013 an anonymous person on IRC contacted me regarding a little project he was running. The project consisted of two initial documents related to 4chan. The first document called 4chan-summary and the second one is called 4chan – early days.

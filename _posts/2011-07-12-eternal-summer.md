@@ -2,7 +2,7 @@
 layout: post
 title: Eternal Summer
 permalink: /eternal_summer/
-redirect_from: /node/24
+redirect_from: /node/24/
 created: 1310507816
 ---
 - <i>Spring has come and passed, the peace can never last, wake me up when summer ends.</i>

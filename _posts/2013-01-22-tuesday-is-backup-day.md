@@ -2,7 +2,7 @@
 layout: post
 title: ! '"tuesday is backup day"'
 permalink: /tuesday is backup day/
-redirect_from: /node/62
+redirect_from: /node/62/
 created: 1358913537
 ---
 4chan /g/ - tuesday is backup day Anonymous 01/22/13(Tue)11:11 No.30914910

@@ -2,7 +2,7 @@
 layout: post
 title: Briefing - A History of Raids and /i/nvasions
 permalink: /Raids_and_invasions_briefing/
-redirect_from: /node/23
+redirect_from: /node/23/
 created: 1309906551
 ---
 <b><center>Intro</center></b>

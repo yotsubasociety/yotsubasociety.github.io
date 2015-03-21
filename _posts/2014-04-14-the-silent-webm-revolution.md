@@ -2,7 +2,7 @@
 layout: post
 title: The Silent WebM revolution
 permalink: /The_Silent_WebM_revolution/
-redirect_from: /node/82
+redirect_from: /node/82/
 created: 1397509222
 ---
 On Saturday 5th of April 2014, a 4chan Developer posting under a regular user invited /g/eeks to post their WebMs. The thread was eventually filled with plenty of WebMs from anime clips to video games footage. Some of the WebMs are conversions from gif files. Some of the files are small viewing size and some of them large of the High Definition viewing type. But they were all in common, silent. 

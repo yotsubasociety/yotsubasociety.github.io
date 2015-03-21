@@ -2,7 +2,7 @@
 layout: post
 title: Things we learned during the first year of YSchan.
 permalink: /YSchan_first_year/
-redirect_from: /node/57
+redirect_from: /node/57/
 created: 1332888322
 ---
 When I first started the Yotsuba Society Boards, I knew that it will never be popular as 4chan. Even though a couple of times they said that it has plenty of potential. The sad truth that anyone can make a chan but it takes a lot of effort to make it into an active chan site.  There were big plans that I wanted to do with it, like having the ability to upload video of like mp4’s and the like and have everyone view them. 

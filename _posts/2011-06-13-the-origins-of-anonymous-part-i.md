@@ -2,7 +2,7 @@
 layout: post
 title: The Origins of Anonymous Part I
 permalink: /originsofanon_pti/
-redirect_from: /node/17
+redirect_from: /node/17/
 created: 1308001378
 ---
 There exist three forms of anonymous. The first form represents the legions of internet users who visit anonymous imageboards and textboards such as 2ch, 2chan, 4chan, and similar internet sites in the Western World. The second form is a personification of the internet users, who represent no identifying race, skin color, or gender. Finally, there is the stand-alone complex, which is like an organization, but it has no true command structure or true standard operating procedure. Each one of these forms merit examination on an anthological level. 

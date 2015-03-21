@@ -2,7 +2,7 @@
 layout: post
 title: Everything you want to read about Nurse-Kun plus more.
 permalink: /Nurse-kun_archives/
-redirect_from: /node/54
+redirect_from: /node/54/
 created: 1330047669
 ---
 On February 20th, the day after the Katsucon convention, a person and head archvist by the name of Antonizoon sent me an email about Bibliotheca Anonoma, a website that is working to archive all the best content from the general internet along with its history and in jokes into a Gollum/Git-based wiki you can clone onto a usb drive or easily make a mirror of. It's featured here: https://github.com/bibanon/bibanon/wiki

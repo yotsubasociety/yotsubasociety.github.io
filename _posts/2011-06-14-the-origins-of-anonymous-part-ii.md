@@ -2,7 +2,7 @@
 layout: post
 title: The Origins of Anonymous Part II
 permalink: /originsofanon_ptii/
-redirect_from: /node/18
+redirect_from: /node/18/
 created: 1308067801
 ---
 <b>Jkidnote: This the first time using a setting where beyond basic stuff, you need to learn html. I'm still going along with learning html as I go. So instead of spending hours on resizing images to fit this page. I decided to post as much images releated to the net character at <a href=http://www.yschan.org>YSchan</a>. There's a thread on /ys/ about it with the images.

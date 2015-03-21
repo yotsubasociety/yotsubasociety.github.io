@@ -2,7 +2,7 @@
 layout: post
 title: ! 'The Second Channel: 2channel - Part I'
 permalink: /the2ndchannel_pti/
-redirect_from: /node/22
+redirect_from: /node/22/
 created: 1309903870
 ---
 <b>The following is part one of an ongoing series on the largest anonymous textboards (any by extension the largest forum on Earth.), 2channel. Because of the large amount of news coverage 2channel has received over the years by not only the Japanese but by the international media, it’s impossible to summarize 2channel in a simple 3-5 page article. Not only that there are pieces and full articles covering the website via magazines and blogs.  The scope of 2channel is so large, that it’s impossible to determine the scale of its true size. The goal of the series is about how a website that was a refuge for a Amezou worlders became the largest forums in the world.</b>

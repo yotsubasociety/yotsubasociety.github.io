@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Important notice: Routine archival of all image boards has ceased'
 permalink: /Routine_archival_ceased/
-redirect_from: /node/78
+redirect_from: /node/78/
 created: 1373826384
 ---
 When Yotsuba Society was first launched, I was the only person who was routinely archiving 4chan and other image board threads manually with Firefox and DownThemAll. I've been doing this since 2008. It was a lot easy for me since I was in university, and most of my social life outside of anime conventions, cinema movies, and university events were in my dorm room watching British television I've downloaded off the internet and reading and saving 4chan threads I was interested. At the time it was only around 20 boards, and I can easily view and read them all and just save them. 

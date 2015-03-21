@@ -2,7 +2,7 @@
 layout: post
 title: If anyone cares
 permalink: /If_anyone_cares/
-redirect_from: /node/51
+redirect_from: /node/51/
 created: 1328316649
 ---
 We do have our own following:

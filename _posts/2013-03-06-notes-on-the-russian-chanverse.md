@@ -2,7 +2,7 @@
 layout: post
 title: Notes on the Russian Chanverse
 permalink: /russian_chanverse_notes/
-redirect_from: /node/71
+redirect_from: /node/71/
 created: 1362627949
 ---
 A full briefing on the Russian Chanverse is forthcoming, so here's a bit of a taste to what's to come.

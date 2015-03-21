@@ -2,7 +2,7 @@
 layout: page
 title: Welcome and Introduction
 permalink: /welcome/
-redirect_from: /node/1
+redirect_from: /node/1/
 ---
 
 **The Yotsuba Society**, or by our full name: _The Society for the Study and Preservation of Yotsuba Channel_, is a website devoted to documenting and preserving the history of the imageboard/*chan culture/scene.

@@ -3,7 +3,7 @@ layout: post
 title: How to Easily Archive a Web Site using Wget
 author: colorado
 permalink: /How_to_Easily_Archive_a_Web_Site/
-redirect_from: /node/32
+redirect_from: /node/32/
 created: 1316041975
 ---
 <h2>How to Easily Archive a Web Site using Wget</h2>

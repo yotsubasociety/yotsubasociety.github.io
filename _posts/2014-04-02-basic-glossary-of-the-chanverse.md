@@ -2,7 +2,7 @@
 layout: post
 title: Basic Glossary of the Chanverse
 permalink: /Basic_Glossary_of_the_Chanverse/
-redirect_from: /node/85
+redirect_from: /node/85/
 created: 1396480020
 ---
 Based on the Glossary of Imageboard terms from one of the more recently created imageboards in Spanish: hispachan.

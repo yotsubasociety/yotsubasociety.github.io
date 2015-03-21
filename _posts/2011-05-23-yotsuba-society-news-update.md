@@ -2,7 +2,7 @@
 layout: post
 title: Yotsuba Society News Update
 permalink: /news_update_5_23_2011/
-redirect_from: /node/14
+redirect_from: /node/14/
 created: 1306175759
 ---
 It’s been a few months and already we are making progress with the site. Staff additions, a slow but knowing userbase on the YS boards (even if it’s only one post or two per week), the updating of the YSchan software, and the steady start of the YS Archives. It’s truly amazing that since I’ve posted my first article on Amezou World that the site became known to the imageboard community. The site was first launched as a imageboard because the front page, archive, and the wiki was not ready yet. But now we got all these pieces in place so we want to get started on actually developing the site as as soon as possible.

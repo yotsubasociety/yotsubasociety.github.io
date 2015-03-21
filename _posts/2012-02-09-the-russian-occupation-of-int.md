@@ -2,7 +2,7 @@
 layout: post
 title: The Russian Occupation of /int/
 permalink: /ruoccupy/
-redirect_from: /node/53
+redirect_from: /node/53/
 created: 1328810828
 ---
 <img src="http://www.yotsubasociety.org/images/ruoccupy/-int-%20RUstillinvading.png"align="left"width="350" height="219">

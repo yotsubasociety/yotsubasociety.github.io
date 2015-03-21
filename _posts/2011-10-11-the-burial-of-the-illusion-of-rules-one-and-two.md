@@ -2,7 +2,7 @@
 layout: post
 title: The Burial of the Illusion of Rules One and Two
 permalink: /burial_of_Illusion_of_rules_one_and_two/
-redirect_from: /node/36
+redirect_from: /node/36/
 created: 1318357051
 ---
 The Occupy Wall Street Movement is further confirmation that rules 1 and 2 has been buried when it came to /b/tarded armchair oldfags who hate seeing people with Guy Fawkes masks. These rules are merely a culturally imposed illusion on the fact that imageboards are usually underground zones where normal people are not allowed unless they like being flamed, or seeing gory pictures. Rules 1 and 2 originally started as both a in joke when raids from 4chan’s /b/ gotten popular, instead some people as usual took it too seriously.

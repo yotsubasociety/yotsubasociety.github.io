@@ -2,7 +2,7 @@
 layout: post
 title: Television Mostly Sucks
 permalink: /Television_Mostly_Sucks/
-redirect_from: /node/33
+redirect_from: /node/33/
 created: 1317235277
 ---
 Congratulations! You dropped out of college or high school, or you got fired off your job because of downsizing or whatever reason so that your employer will continue to make more money out of letting go of people. You can’t have your normal lifestyle (read normal social activities like going to the bar or restaurant) because you don’t have a regular flow of disposable income. Besides you need disposable income to have a normal social life right? But since you can’t your only option is to watch television to get away from the shock and pain of what’s happening to you. Sadly, the state of television will give you a reason to get back into life again or job-hunting, because it mostly sucks.

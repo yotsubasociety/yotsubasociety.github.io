@@ -2,7 +2,7 @@
 layout: page
 title: Links and Resources
 permalink: /Links and Resources/
-redirect_from: /node/70
+redirect_from: /node/70/
 ---
 
 _**Under Construction: Somelinks are dead. This is taken from the formerly active chansoft website**_

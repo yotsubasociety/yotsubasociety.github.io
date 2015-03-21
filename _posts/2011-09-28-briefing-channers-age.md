@@ -2,7 +2,7 @@
 layout: post
 title: Briefing - Channer’s Age
 permalink: /briefing_channers_age/
-redirect_from: /node/34
+redirect_from: /node/34/
 created: 1317251028
 ---
 Since the inception of 4chan’s /b/, /b/tards there have been calling themselves newfags and oldfags in order to gain a sense of superiority of one another. These two groups have a long conflict with each other since its inception. Newfags are considered “the cancer killing /b/” because a good portion of them are middle to high school age. Oldfags consider /b/ as never good, because of its constantly deteriorating quality. 

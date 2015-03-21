@@ -2,7 +2,7 @@
 layout: post
 title: The Protochannel and the First Channel -- Ayashii World and Amezou World – The Grandparents of the Western Imageboard Culture
 permalink: /ayashii-and-amezou/
-redirect_from: /node/2
+redirect_from: /node/2/
 created: 1300716727
 ---
 Many 4channers (and channers in general) know the origin of the imageboards came from 2chan or Fubata Channel.  However, it was another unknown site that created the foundations of the imageboard culture. Ayashii World was the first large-scale anonymous textboard in Japan. Ayashii was established in 1996 by Shiba Masayuki (also known by his username ‘Shiba'). Ayashii world pioneered and basically gave birth to anonymous discourse, verbal memes (more specifically idioms), ascii art, and the first visual meme (giko-neko) of not only Japanese but Western online otaku culture.

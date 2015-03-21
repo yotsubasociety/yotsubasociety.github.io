@@ -3,7 +3,7 @@ layout: page
 title: Yotsuba Society Staff
 permalink: /staff/
 redirect_from:
-  - /node/26
+  - /node/26/
   - /YS_Staff/
 ---
 

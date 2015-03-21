@@ -2,7 +2,7 @@
 layout: post
 title: Yotsuba Society News Update 10-30-2011
 permalink: /news_update-10-30-2011/
-redirect_from: /node/39
+redirect_from: /node/39/
 created: 1319989415
 ---
 It’s been a long time since I made a news update. I think the last one was about June or July, I don’t know.  But a lot of stuff has changed, good and bad. The Society has discovered a whole list of Japanese imageboards that no one in the Western World has heard of. We got raided a couple of times by an attention whore who actually runs a decent chan site. Got new staff and already made a decent show of work and skill. And yes, The Second Channel and Third Channel was finally published.

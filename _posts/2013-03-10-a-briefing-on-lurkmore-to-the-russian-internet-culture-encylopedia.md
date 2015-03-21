@@ -2,7 +2,7 @@
 layout: post
 title: A Briefing on lurkmore.to - The Russian internet culture encylopedia
 permalink: /lurkmore_to_briefing/
-redirect_from: /node/72
+redirect_from: /node/72/
 created: 1362939056
 ---
 Lurkmore.to or /lm/ was originally founded as a place for 2ch.ru culture and memes. Now it encompasses the broad runet subculture. This is in comparsion in Enccylopedia Dramatica’s focus on internet drama in the United States. More specifically in one of Lurkmore.to’s articles it’s a “Russian-language encyclopedia of folklore and subcultures. Serves as a guide to the concepts and terminology of Russian cultural life in all its manifestations” It’s userbase is over 50 million. /lm/ covers a broad range of topics such as the internet and IT, computer games, life, politics, history, culture, social life and many others. The site is characterize by generally informality, satirizing, free use to coarse language and sharp critizsm of shortcomings of internet pheonna of the runet. 

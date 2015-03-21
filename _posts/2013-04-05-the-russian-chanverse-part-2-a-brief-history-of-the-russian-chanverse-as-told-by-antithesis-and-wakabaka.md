@@ -2,7 +2,7 @@
 layout: post
 title: The Russian Chanverse Part 2 – A Brief history of the Russian Chanverse (as told by antithesis and wakabaka)
 permalink: /the_russian_chanverse_part_2/
-redirect_from: /node/74
+redirect_from: /node/74/
 created: 1365137265
 ---
 The following is a textlog from #YotsubaSociety IRC room at rizon at 3/13/2013, featuring two Russian channers “antithesis” and “wakabaka” giving us an introduction into the history of the Russian chanverse. The textlog also includes some things that I did not knew about: Such as the true admin of the original Russian 2-ch.ru before it was closed down without warning. So here’s our full textlog.

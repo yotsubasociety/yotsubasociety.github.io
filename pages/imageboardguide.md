@@ -2,7 +2,7 @@
 layout: page
 title: Yotsuba Society's Guide to Imageboards
 permalink: /imageboardguide/
-redirect_from: /node/8
+redirect_from: /node/8/
 ---
 
 This FAQ is based on my use of imageboards, such as 4chan, iichan, and various other chans since 2008, and it is modeled after the Secondary GameFAQs FAQ and the SAoVQ(Secret Area of VIP Quality) Guide to Anonymous Boards and Guide to SAOVQ
