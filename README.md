@@ -86,6 +86,32 @@ Finally, you must link to the page before anyone will be able to access it.
 
 Now your page is available for the public to enjoy.
 
+## Special Jekyll Markdown Syntax
+
+Jekyll uses some unique syntactical extensions to Markdown. For one, you can dump any HTML you want, and it'll also be valid Markdown.
+
+### Images
+
+Make sure to store all images you use in your `images/` folder. Then, you embed them as follows:
+
+```markdown
+![]({{ site.url }}/images/picture1.jpg)
+```
+
+### Button Links
+
+Minimal Mistakes allows you to create some snazzy button links.
+
+```html
+<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+```
+
+You can create buttons that link to other sites as well.
+
+```html
+<a markdown="0" href="http://purl.stanford.edu/tf565pz4260" class="btn">YS Archives</a>
+```
+
 ## Edit the Navigation Bar
 
 There is a nice, neat navigation bar along the top for important links, and even external links. You can edit it from the file `_data/navigation.yml`. Here's an example:
