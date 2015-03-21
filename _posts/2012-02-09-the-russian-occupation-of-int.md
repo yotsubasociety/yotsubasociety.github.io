@@ -5,9 +5,9 @@ permalink: /ruoccupy/
 redirect_from: /node/53/
 created: 1328810828
 ---
-<img src="http://www.yotsubasociety.org/images/ruoccupy/-int-%20RUstillinvading.png"align="left"width="350" height="219">
+<img src="http://i.imgur.com/Zv9j63h.png"align="left"width="350" height="219">
 
-<img src="http://www.yotsubasociety.org/images/ruoccupy/-int-%20thebutthurtlocker.png"align="right"width="350" height="219">
+<img src="http://i.imgur.com/CZnwqp4.png"align="right"width="350" height="219">
 On February 4th 2012, 4chan's international board was invaded by Russian channers. Regulars to the board were confused with all the foregin trollfaces they're seeing and the different alphabet they're reading. Some don't mind the russians, some want them out, and some don't care. The role 4chan is playing while being a receiving website of sorts for Russian channer refugees, has huge implications in the real world. Currently as of this writing 2ch.so, the primary imageboard for the Russian Federation is down due to a DDoS attack by loyalists of President Putin's party.
 
 
