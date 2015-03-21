@@ -2,7 +2,7 @@
 
 title:            Yotsuba Society
 locale:           en_US
-url:              http://ys.bibanon.org
+url:              http://localhost:4000
 
 
 # Jekyll configuration
@@ -27,9 +27,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Ndee "Jkid" Okeh (Jkid !yYT/u4PSNE) 
-  avatar: ba-logo.png
-  bio: "Co-Owner, Co-Founder, and Head Chanthropologist of the Yotsuba Society."
+  name: Yotsuba Society
+  avatar: logo.jpg
+  bio: "A website devoted to documenting and preserving the history of the imageboard/*chan culture/scene."
   email: ysjkid@gmail.com
   disqus-shortname: 
   twitter: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Protochannel and the First Channel -- Ayashii World and Amezou World – The Grandparents of the Western Imageboard Culture
-permalink - /ayashii-and-amezou/
+permalink: /ayashii-and-amezou/
 redirect_from: /node/2
 created: 1300716727
 ---

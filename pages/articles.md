@@ -16,3 +16,4 @@ redirect_from: /node/4
 * [Pt. 2](http://www.yotsubasociety.org/originsofanon_ptii)
 * [Pt.3](http://www.yotsubasociety.org/originsofanon_ptiii)
 * [Eternal Summer](http://www.yotsubasociety.org/eternal_summer)
+* [Guide to Imageboards](http://yotsubasociety.org/imageboardguide)
