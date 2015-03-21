@@ -13,8 +13,8 @@ Come 2012, Katsucon 18: I presented “The Chanverse – A Introduction to the I
 
 Now, after sitting in my unorganized archives for years, I’m putting up the PowerPoint files to just see how far the panels went and for those who did not have a chance to see these panels. Consider this a taste for what’s to come tomorrow.
 
-* [The Imageboard World (Katsucon 17)](http://www.yotsubasociety.org/powerpoints/The%20Imageboard%20World.pptx)
-* [The Chanverse – A Introduction to the Imageboard World (Katsucon 18)](http://www.yotsubasociety.org/powerpoints/The%20Chanverse.ppt)
+* [The Imageboard World (Katsucon 17)](/powerpoints/The%20Imageboard%20World.pptx)
+* [The Chanverse – A Introduction to the Imageboard World (Katsucon 18)](/powerpoints/The%20Chanverse.ppt)
 
 Ndee "Jkid" Okeh
 YSJkid@gmail.com

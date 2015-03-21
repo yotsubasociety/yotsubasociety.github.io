@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Join The Yotsuba Society
-permalink: /Join_us/
-redirect_from: /node/31
+permalink: /join-us/
+redirect_from:
+  - /node/31
+  - /Join_us/
 ---
 
 Yotsuba Society is currently understaffed. We have plenty of goals to accomplish and a lot of stuff to do, however we need a lot help to do so. It's a volunteer job, so you won't get paid but the rewards of helping preserve and study the western imageboard culture will be more than worth it.

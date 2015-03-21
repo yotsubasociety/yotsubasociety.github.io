@@ -11,9 +11,9 @@ Yotsuba Society held three panels at the anime/Japanese culture convention Katsu
 
 But even since then I've never released the panel power-point presentations until now:
 
-* [The Imageboard World (Katsucon 17)](http://www.yotsubasociety.org/powerpoints/The%20Imageboard%20World.pptx)
-* [The Chanverse – A Introduction to the Imageboard World (Katsucon 18)](http://www.yotsubasociety.org/powerpoints/The%20Chanverse.ppt)
-* [The Imageboard World 2 - The Chanverse 2-13-2013 final edit](http://www.yotsubasociety.org/powerpoints/The%20Imageboard%20World%202%20-%20The%20Chanverse%202-13-2013%20final%20edit.ppt)
+* [The Imageboard World (Katsucon 17)](/powerpoints/The%20Imageboard%20World.pptx)
+* [The Chanverse – A Introduction to the Imageboard World (Katsucon 18)](/powerpoints/The%20Chanverse.ppt)
+* [The Imageboard World 2 - The Chanverse 2-13-2013 final edit](/powerpoints/The%20Imageboard%20World%202%20-%20The%20Chanverse%202-13-2013%20final%20edit.ppt)
 
 All of three panels presentations are available to view at your pleasure.
 

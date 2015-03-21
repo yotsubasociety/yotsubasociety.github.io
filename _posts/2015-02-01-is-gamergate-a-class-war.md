@@ -7,7 +7,7 @@ author: warsie
 created: 1422770145
 ---
 
-![Screencap](http://i.imgur.com/2WoXotm.png)
+![Screencap](/images/2WoXotm.png)
 
 VERSION 2: I've been thinking, and I've noticed two ways you might find this interesting, now that I thought of it. Inspiration came from the screencap from someone on the /baphomet/ board on 8chan
 
