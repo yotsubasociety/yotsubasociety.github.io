@@ -2,6 +2,7 @@
 layout: post
 title: The Yotsuba Society's New Jekyll Website
 tags: [blog, website, Yotsuba Society Bibliotheca Anonoma]
+author: antonizoon
 date: 2015-03-21 06:40:45
 ---
 
