@@ -12,7 +12,7 @@ To learn how to install and use this theme check out the [Setup Guide](http://mm
 
 ### Creating/Editing a Blog Post
 
-To create a new blog post, go to the `_posts/` folder in this repository and click the button pictured below to **Create a new file here**. 
+To create a new blog post, go to the `_posts/` folder (the one with an underscore) in this repository and click the button pictured below to **Create a new file here**. 
 
 ![](https://camo.githubusercontent.com/8fdc501d6746c307ada3d168e5db7b8d1b12cd75/687474703a2f2f636c2e6c792f4c4c65302f6e65772d66696c652e6a7067)
 
@@ -43,7 +43,7 @@ When you're finished, make sure to write a description of your changes in the **
 
 Jekyll can do much more than plain ol' blog posts. You can also make website pages, for [Articles](http://yotsubasociety.github.io/articles/) or [Briefings](http://yotsubasociety.github.io/briefings/).
 
-To create a new page, go to the `pages/` folder in this repository and click the button pictured below to **Create a new file here**.
+To create a new page, go to the `pages/` folder (no underscore) in this repository and click the button pictured below to **Create a new file here**.
 
 ![](https://camo.githubusercontent.com/8fdc501d6746c307ada3d168e5db7b8d1b12cd75/687474703a2f2f636c2e6c792f4c4c65302f6e65772d66696c652e6a7067)
 
