@@ -9,10 +9,10 @@ Below is the contact information for Yotsuba Society. Any inquiries will get a r
 
 ## General Contact Information
 
-IMPORTANT: If you use a tripcode/name on YSchan, remember to include that in your email message.
+IMPORTANT: If you use a tripcode/name on 4chan/8chan/etc, remember to include that in your email message.
 
-General Email – For General Inquiries: Yotsubasocietycontact[at]gmail.com
-IRC Chatroom: #YotsubaSociety at irc.rizon.net
+* **General Email** – For General Inquiries: Yotsubasocietycontact[at]gmail.com
+* **IRC Chatroom**: #YotsubaSociety at irc.rizon.net
 
 ### The YS Administrators
 

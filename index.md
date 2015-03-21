@@ -10,8 +10,6 @@ image:
 
 **The Yotsuba Society**, or by our full name: _The Society for the Study and Preservation of Yotsuba Channel_, is a website devoted to documenting and preserving the history of the imageboard/*chan culture/scene.
 
-* [Articles](http://yotsubasociety.org/articles) - Articles of Interest.
-* [Briefings](http://www.yotsubasociety.org/briefings) - Concise articles about various topics
 * [Send Your Old Stuff To Us](http://www.yotsubasociety.org/material_submission)
 * [Join Yotsuba Society](http://www.yotsubasociety.org/Join_us)
 * [Contact Us](http://yotsubasociety.org/contact)

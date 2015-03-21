@@ -38,7 +38,9 @@ Due to the increasing trends of middle and upper class people using the internet
 
 Note that "trust fund hipster" and similar class/identity based insults are used by gamergate against anti gamergate - which seems to further the claim of gamergate being perhaps a reaction to "internet gentrification" You can likely tie this clique of new media hipsters with trends like TED and how TED has pretty much been used to promote liberal free-market, end-of-history "Everything will be better" strain of thought.
 
-I wonder how people will look at this decades from now. Will it look like the "Disco sucks" people where race/regionalism/class/etc of disco hate and whatnot were ignored in favor of conflict of scenes as to why shit went bad/blew up at this specific case? The person who ran Disco Demolition Night in Chicago has stated so. Here is information on the anti-disco movement, at least Disco Demoliton Night in Chicago. Compare this to hate for Emos in late 1990s/early 200s and hate for Hipsters in late 200s/early 2010s. https://www.youtube.com/watch?v=I1CP1751wJA
+I wonder how people will look at this decades from now. Will it look like the "Disco sucks" people where race/regionalism/class/etc of disco hate and whatnot were ignored in favor of conflict of scenes as to why shit went bad/blew up at this specific case? The person who ran Disco Demolition Night in Chicago has stated so. Here is information on the anti-disco movement, at least Disco Demoliton Night in Chicago. Compare this to hate for Emos in late 1990s/early 2000s and hate for Hipsters in late 200s/early 2010s.
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/I1CP1751wJA" frameborder="0"> </iframe>
 
 https://web.archive.org/web/20150120185655/https://8ch.net/leftypol/res/71957.html
 https://np.reddit.com/r/KotakuInAction/comments/2sl4s7/is_gamergate_a_class_war/
