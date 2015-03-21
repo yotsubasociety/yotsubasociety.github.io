@@ -85,3 +85,26 @@ Finally, you must link to the page before anyone will be able to access it.
 > **Note:** The `../` prefix is used because the generated `articles` page is one directory level below the website folder.
 
 Now your page is available for the public to enjoy.
+
+## Edit the Navigation Bar
+
+There is a nice, neat navigation bar along the top for important links, and even external links. You can edit it from the file `_data/navigation.yml`. Here's an example:
+
+```yaml
+# Site navigation links
+
+- title: Blog
+  url: /posts/
+
+- title: Articles
+  url: /articles/
+
+- title: Staff
+  url: /staff/
+
+- title: Contact Us
+  url: /contact/
+  
+- title: YS Archives
+  url: http://purl.stanford.edu/tf565pz4260
+```
