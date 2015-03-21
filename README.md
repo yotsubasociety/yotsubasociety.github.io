@@ -41,7 +41,7 @@ When you're finished, make sure to write a description of your changes in the **
 
 ## Create and edit Pages
 
-Jekyll can do much more than plain ol' blog posts. You can also make website pages 
+Jekyll can do much more than plain ol' blog posts. You can also make website pages, for [Articles](http://yotsubasociety.github.io/articles/) or [Briefings](http://yotsubasociety.github.io/briefings/).
 
 To create a new page, go to the `pages/` folder in this repository and click the button pictured below to **Create a new file here**.
 
@@ -69,3 +69,19 @@ modified: 2014-09-15 14:40:45
 Now, you can write your page in Markdown format, right below the FrontMatter. Check out Github's excellent [Markdown Tutorial](https://help.github.com/articles/markdown-basics/) to get a feel for this powerful markup language. 
 
 When you're finished, make sure to write a description of your changes in the **Commit changes** section. Then, click the **green Commit Changes** button to post the page to the blog.
+
+Finally, you must link to the page before anyone will be able to access it. 
+
+* If this page is an **Article**, [click the `articles.md` file at the top of the repository.](https://github.com/yotsubasociety/yotsubasociety.github.io/blob/master/articles.md)
+* If this page is a **Briefing**, [click the `briefings.md` file at the top of the repository.](https://github.com/yotsubasociety/yotsubasociety.github.io/blob/master/briefings.md)
+
+Then, click **Edit** at the top right. Then add a link to your new page in the bulleted list, as follows:
+
+> **Note:** Make sure to create a relative link to the page. If your page's URL is `http://yotsubasociety.org/intro-to-ys/`, just link to `intro-to-ys/`.
+
+```markdown
+* [Introduction to Yotsuba Society](intro-to-ys/)
+* [The Protochannel and the First Channel](ayashii-and-amezou/)
+```
+
+Now your page is available for the public to enjoy.
