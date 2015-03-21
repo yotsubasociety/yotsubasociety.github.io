@@ -72,10 +72,8 @@ When you're finished, make sure to write a description of your changes in the **
 
 Finally, you must link to the page before anyone will be able to access it. 
 
-* If this page is an **Article**, [click the `articles.md` file at the top of the repository.](https://github.com/yotsubasociety/yotsubasociety.github.io/blob/master/articles.md)
-* If this page is a **Briefing**, [click the `briefings.md` file at the top of the repository.](https://github.com/yotsubasociety/yotsubasociety.github.io/blob/master/briefings.md)
-
-Then, click **Edit** at the top right. Then add a link to your new page in the bulleted list, as follows:
+1. If this page is an **Article**, [click the `articles.md` file under the `pages/` folder.](https://github.com/yotsubasociety/yotsubasociety.github.io/blob/master/pages/articles.md)
+2. Then, click **Edit** at the top right. Then add a link to your new page in the bulleted list, as follows:
 
 > **Note:** Make sure to create a relative link to the page. If your page's URL is `http://yotsubasociety.org/intro-to-ys/`, just link to `../intro-to-ys/`.
 
@@ -84,6 +82,6 @@ Then, click **Edit** at the top right. Then add a link to your new page in the b
 * [The Protochannel and the First Channel](../ayashii-and-amezou/)
 ```
 
-> **Note:** The `../` prefix is used because the generated `articles` and `briefings` pages are one directory level below the website folder.
+> **Note:** The `../` prefix is used because the generated `articles` page is one directory level below the website folder.
 
 Now your page is available for the public to enjoy.

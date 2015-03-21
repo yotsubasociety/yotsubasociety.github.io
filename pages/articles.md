@@ -17,3 +17,9 @@ redirect_from: /node/4/
 * [Pt.3](../originsofanon_ptiii/)
 * [Eternal Summer](../eternal_summer/)
 * [Guide to Imageboards](../imageboardguide/)
+
+### Briefings
+
+* [A History of Raids and /i/nvasions](../Raids_and_invasions_briefing/)
+* [A Briefing on 2channel](../2channel_briefing/)
+* [A Briefing on Futaba Channel](../Futaba_Channel_briefing/)
