@@ -63,6 +63,12 @@ Important is a lover of different chans since 2006, and is a frequent visitor of
 
 A channer with an interest in imageboards and Japanese culture for most of his teenage life. While a /b/tard at heart, he visits other 4chan boards such as /n/, /i/, and /an/. He's also knowledgeable about about Futaba Channel, iichan, 420chan, megachan, 99chan, and booru-type imageboards. He’s also has knowledge of copypasta, memes and imageboard culture.
 
+### Antonizoon
+
+[Antonizoon](http://github.com/antonizoon) is the head archivist of the [Bibliotheca Anonoma](http://github.com/bibanon/bibanon/wiki), and partners with the Yotsuba Society to collaborate on certain projects.
+
+He created the new Yotsuba Society website using Static HTML Jekyll, replacing the rotting Drupal 7.x engine that it used to have.
+
 ## YSChan Admins
 
 Jkid, Warsie ,mr_vile, and Xantar are the primary administrators of the Yotsuba Society Boards. There are two other administrators of the Yotsuba Society Boards.
