@@ -15,7 +15,7 @@ In order to understand this character we first have to define what a net charact
 
 From the iichan’s /nc/ board (http://www.wakachan.org/os/wakaba.html) we can see various characters such as Vocaloids, personifications of foods, signs, Windows Operating systems, Hetalia, and ones based on video games such as Portal. The 420’s version of the net characters board (http://boards.420chan.org/nc/) feature western characters like from Homestuck, yurikki from the touhou project, yakui and tcc-chan (the personification of 420chan) The 2chan net character board (2chan net character board: http://dat.2chan.net/10/futaba.htm) is similar to iichan’s character board but there a few differences. There is a more focus on the nijura maids, the OS-tans and other personifications. Plus there is a focus on not safe for work material as well.
 
-<center><b>Net Characters: Characters borne from the internet.</b></center>
+## Net Characters: Characters borne from the internet
 
 The vocaloid characters are based on are a series of vocal synthesizers that were released by a Japanese company known as Crypton Future Media. The first in the series is Hatsune Miku, a female vocaloid. Later as the product became popular, more vocaloids were created such as Kagamine Rin and Len, Kaito, Kamui Gakupo (based on the voice of Gackt), Megurine Luka and many others. Their characters are the subject of many fan art, songs produced by them by friends, and have a large fan base and cosplay that persist to this day. They even have their own *chan called mikuchan.org 
 
@@ -51,13 +51,14 @@ But it’s not only on the internet where can you see this personification. It�
 
 From that face was known as New Anonymous. Born from the Project Chanology protests of 2008 they reflect the mocking of scientology rather than actual protests. But eventually that mask evolved from its Chanology origins into the moral (aka moralfag) faction of Anonymous.
 
-<b>BONUS INFO</b>: Toshiaki. 
+## BONUS INFO: Toshiaki. 
 Believe it or not, Toshiaki from 2chan’s /b/ do have a net personification. It comes in two forms: The first form is a young male with a white shirt and black hair, with its eyes covered (if faced by the camera) or his head turned away from the screen. He also accompanied with a personal Ninjura Maid called Medoi.
 (http://shii.org/maids/medoisanmedoisan.png) Another form of Toshiaki is manifested a neckbearded male with glasses and medium long hair. Occasionally with a blanket because he's a NEET and can't afford the electric bill. (Those images of that form of toshiaki can be found on this thread:http://yschan.org/ys/res/78.html#i80)
 
 <i>A Side Note: While the net personification of anonymous represents the average channer, there is no true personification of 4chan similar to what 420chan has (TCC-chan). While there are attempts to personify 4chan similar to what other popular internet and social network sites have been treated to, they either accentuate the anonymity of the site, or the shock nature portion of the site. A possibly real reason why 4chan can’t be personified is that it has many boards (some 50 of them) and if anyone tries to personify the website, the personality of the character would be schizophrenic.</i>  
 
-Images referenced:
-http://www.yotsubasociety.org/images/originsofanon/4chan.jpg 
-http://www.yotsubasociety.org/images/originsofanon/hyperfighting.jpg
-http://www.yotsubasociety.org/images/originsofanon/fightfourchan.jpg
+## Images referenced:
+
+* http://www.yotsubasociety.org/images/originsofanon/4chan.jpg 
+* http://www.yotsubasociety.org/images/originsofanon/hyperfighting.jpg
+* http://www.yotsubasociety.org/images/originsofanon/fightfourchan.jpg
