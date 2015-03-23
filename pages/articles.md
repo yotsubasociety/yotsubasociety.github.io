@@ -5,19 +5,20 @@ permalink: /articles/
 redirect_from: /node/4/
 ---
 
-* [Introduction to Yotsuba Society](../intro-to-ys/)
-* [The Protochannel and the First Channel](../ayashii-and-amezou/)
-* [The Otaku Continuum](../the_otaku_continuum/)
-* [Stages of a Channer](../Channerstages/)
-* [An Ode to the F40PH](../An_Ode_to_the_F40PH/)
-* [Critique and Commentary of “4chan and /b/ - An Analysis on Anonymity and Ephemerality in a Large Online Community.”](../Critique_and_Commentary/)
-* [What is Chanthropology?](../What_is_Chanthropology/)
-* The Origins of Anonymous: [Pt.1](../originsofanon_pti/) - [Pt. 2](../originsofanon_ptii/) - [Pt.3](../originsofanon_ptiii/)
-* [Eternal Summer](../eternal_summer/)
-* [Guide to Imageboards](../imageboardguide/)
+* [Introduction to Yotsuba Society]({{ site.url }}/intro-to-ys/)
+* [The Protochannel and the First Channel]({{ site.url }}/ayashii-and-amezou/)
+* [The Otaku Continuum]({{ site.url }}/the_otaku_continuum/)
+* [Stages of a Channer]({{ site.url }}/Channerstages/)
+* [An Ode to the F40PH]({{ site.url }}/An_Ode_to_the_F40PH/)
+* [Critique and Commentary of “4chan and /b/ - An Analysis on Anonymity and Ephemerality in a Large Online Community.”]({{ site.url }}/Critique_and_Commentary/)
+* [What is Chanthropology?]({{ site.url }}/What_is_Chanthropology/)
+* The Origins of Anonymous: [Pt.1]({{ site.url }}/originsofanon_pti/) - [Pt. 2]({{ site.url }}/originsofanon_ptii/) - [Pt.3]({{ site.url }}/originsofanon_ptiii/)
+* The Faces of Anonymous: [Pt.1]({{ site.url }}/facesofanonpti/) - [Pt. 2]({{ site.url }}/facesofanonpti/)
+* [Eternal Summer]({{ site.url }}/eternal_summer/)
+* [Guide to Imageboards]({{ site.url }}/imageboardguide/)
 
 ### Briefings
 
-* [A History of Raids and /i/nvasions](../Raids_and_invasions_briefing/)
-* [A Briefing on 2channel](../2channel_briefing/)
-* [A Briefing on Futaba Channel](../Futaba_Channel_briefing/)
+* [A History of Raids and /i/nvasions]({{ site.url }}/Raids_and_invasions_briefing/)
+* [A Briefing on 2channel]({{ site.url }}/2channel_briefing/)
+* [A Briefing on Futaba Channel]({{ site.url }}/Futaba_Channel_briefing/)
