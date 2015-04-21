@@ -16,6 +16,7 @@ redirect_from: /node/4/
 * The Faces of Anonymous: [Pt.1]({{ site.url }}/facesofanonpti/) - [Pt. 2]({{ site.url }}/facesofanonpti/)
 * [Eternal Summer]({{ site.url }}/eternal_summer/)
 * [Guide to Imageboards]({{ site.url }}/imageboardguide/)
+* [Anonymac The 4chan Birthday Artist] ({{ site.url }}/Anonymac_The_4chan_Birthday_Artist/)
 
 ### Briefings
 
