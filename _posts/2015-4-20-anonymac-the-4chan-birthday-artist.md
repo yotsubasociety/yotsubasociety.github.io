@@ -12,4 +12,4 @@ His avartar is a person with his eyes blocked by a solid black bar, similar to n
 
 There is not much else that we know of him. 
 
-We collected a select package of images of his work including his 4chan files on: ![]({{ site.url }}/images/anonymac/anonymac.rar)
+We collected a select package of images of his work including his 4chan files on ![this link]({{ site.url }}/images/anonymac/anonymac.rar)
