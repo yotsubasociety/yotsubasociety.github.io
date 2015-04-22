@@ -10,6 +10,24 @@ Anonymac is a channer from Australia who was the single person responsible for a
 
 His avartar is a person with his eyes blocked by a solid black bar, similar to news reports or crime scene photos on news where the suspect identity is partically obscured by a black bar. Anonymac is also a regular of /i/ as a oekaki artist. 
 
+![]({{site.url}}images/anonymac/Uninspired_by_Anonymac.png)
+
+![]({{site.url}}images/anonymac/Loli_Loev_i_by_Anonymac.png)
+
 There is not much else that we know of him. 
+
+![]({{site.url}}images/anonymac/Lifelike_Nana_Texture_by_Anonymac.png)
+
+![]({{site.url}}images/anonymac/Longcat_by_Anonymac.png)
+
+![]({{site.url}}images/anonymac/Yotsuba_by_Anonymac.png)
+
+![]({{site.url}}images/anonymac/Anonymac_and_Domino_by_Anonymac.jpg)
+
+![]({{site.url}}images/anonymac/i_tan_and_Mac_by_Anonymac.png)
+
+![]({{site.url}}images/anonymac/i_tan_Design_by_Anonymac.png)
+
+![]({{site.url}}/images/anonymac/Happy_Birthday_to_Moi_by_Anonymac.png)
 
 We collected a select package of images of his work including his 4chan files on ![this link]({{ site.url }}/images/anonymac/anonymac.rar)
