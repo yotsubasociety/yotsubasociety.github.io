@@ -11,7 +11,7 @@ The following are the people behind Yotsuba Society, aka Team Yotsuba Society (T
 
 ## Primary Administrators of Yotsuba Society
 
-### Ndee “Jkid” Okeh (Jkid !yYT/u4PSNE)
+### Ndubuisi “Jkid” Okeh (Jkid !yYT/u4PSNE)
 
 Position: Co-Owner, Co-Founder, and Head Chanthropologist
 
@@ -45,6 +45,10 @@ A Japanese expat living in Europe, he’s currently a part of the Ayashii World 
 
 ## YS Archivists
 
+### dabeshu
+
+A channer with an interest in imageboards and Japanese culture for most of his teenage life. While a /b/tard at heart, he visits other 4chan boards such as /n/, /i/, and /an/. He's also knowledgeable about about Futaba Channel, iichan, 420chan, megachan, 99chan, and booru-type imageboards. He routinely archives threads of interest on /b/ and he also has knowledge of copypasta ,memes and imageboard culture.
+
 ### Grey (grey !C.MxxuCiTo) [RETIRED]
 
 An originfag who started going to 4chan as a /b/tard since it's beginnings in 2003. He habitually downloaded every image and thread of interest on /b/ since he first entered 4chan. He's also a veteran of various raids since Habbo raid of 2006. In 2007, he transitioned away from 4chan to iichan, Tohno-chan, 99chan, Minichan, Junkuchan, Tinychan, and 789chan. He considers the *chan culture the biggest sociological event in recent history (that no one seems to appreciate or realize this fact), and hates to see the culture get destroyed and will do whatever it takes to preserve it. Currently owns and administers otakutalk.org.
@@ -58,10 +62,6 @@ Colorado is a resident Britfag of 4chan’s /g/ technology board. Interested in 
 ### Importu “Important” Tsuki (Important)
 
 Important is a lover of different chans since 2006, and is a frequent visitor of 4chan’s /x/, /v/, /ic/, /mu/, /a/ boards.
-
-### dabeshu
-
-A channer with an interest in imageboards and Japanese culture for most of his teenage life. While a /b/tard at heart, he visits other 4chan boards such as /n/, /i/, and /an/. He's also knowledgeable about about Futaba Channel, iichan, 420chan, megachan, 99chan, and booru-type imageboards. He’s also has knowledge of copypasta, memes and imageboard culture.
 
 ### Antonizoon
 
