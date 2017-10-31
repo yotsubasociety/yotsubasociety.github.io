@@ -7,9 +7,9 @@ created: 1310605605
 ---
 Link1: [Original Link Removed, one of the images contains a trojan program, please download the mirror version instead]
 Mirror #1:
-Part One: http://www.mediafire.com/download.php?77r94mmp8phyi8v
-Part Two: http://www.mediafire.com/download.php?scg21c63tuwjv74
-Part Three: http://www.mediafire.com/download.php?1bz2zrzzqqb25e8
+Part One: https://mega.nz/#!XN02XSDS!kM3CideAKyToEGIszmoCfaz5Rb-5ZKvZkhofvuPVQS0
+Part Two: https://mega.nz/#!uBFwkaZa!WvBhnYpgan7EKAdXmcZXmoCzmm7Gy80NvzoPtkx40r0
+Part Three: https://mega.nz/#!6ZtGnbJI!_3z_Alsge1ismDgn8eOJLvaZG87xNCn51Y-zzN0Rdkk
 
 Everyone interested in 4chan's meme-based culture should download this .rar file.
 
