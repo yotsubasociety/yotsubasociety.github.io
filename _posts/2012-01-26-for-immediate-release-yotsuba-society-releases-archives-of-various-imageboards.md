@@ -22,6 +22,6 @@ In addition we the complete collection of 4chan related video threads ranging fr
 
 For more information about these archives or any other questions and inquires please contact Yotsuba Society at yotsubasocietycontact@gmail.com
 
-About Yotsuba Society: Yotsuba Society of by its full name – The Society for the Study and Preservation of Yotsuba Channel is a website and electronic society for the study, research, and preservation of the chan scene (known as the chanverse) and the chan culture such as 4chan, 420chan, Futaba Channel, and 2channel. The site has its own front page (www.yotsubasociety.org), a wiki (www.yswiki.org), a dedicated archives portion (http://archives.yotsubasociety.org), and its own imageboards. The site is administered and co-founded by Ndee “Jkid” Okeh and Patrick “Xantar” Mckee.
+About Yotsuba Society: Yotsuba Society of by its full name – The Society for the Study and Preservation of Yotsuba Channel is a website and electronic society for the study, research, and preservation of the chan scene (known as the chanverse) and the chan culture such as 4chan, 420chan, Futaba Channel, and 2channel. The site has its own front page (www.yotsubasociety.org), a wiki (www.yswiki.org), a dedicated archives portion (http://archives.yotsubasociety.org), and its own imageboards. The site is administered and co-founded by Ndee “Jkid” Okeh and Xantar.
 
 
